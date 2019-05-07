@@ -1,0 +1,14 @@
+span.badge.new:after {
+    content: "";
+}
+
+span.badge.new {
+    border-radius: 10px;
+}
+
+span.badge {
+    min-width: 1.5rem;
+    padding: 0 0px;
+    line-height: 20px;
+    height: 20px;
+}
